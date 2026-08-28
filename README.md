@@ -32,18 +32,6 @@ Instead of requiring a dedicated mobile app or external streaming program, CBD h
 
 ---
 
-## Why I Made This
-
-CBD started as a pretty simple personal project.
-
-My girlfriend usually preferred being in bed and playing on her iPad instead of sitting at her desk in a chair. Since Minecraft Java Edition does not really have a simple way to play from an iPad while still using the game and mods running on a PC, I wanted to make something that gave her that option.
-
-CBD became my solution: let Minecraft keep running normally on the PC, but stream it to an iPad through a browser with touchscreen controls so she could play comfortably from bed without needing another copy of Minecraft, a separate mobile app, or external streaming software.
-
-That personal use case is still one of the main ideas behind the mod: making it easier to play Minecraft Java Edition from somewhere other than directly in front of your computer.
-
----
-
 ## How It Works
 
 CBD runs an embedded streaming server directly inside the Minecraft client.
